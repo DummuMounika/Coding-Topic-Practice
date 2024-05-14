@@ -1,4 +1,5 @@
 #Selection Sorting
+#Selects Mininmum and swap
 def selectionSorting(nums):
     # Sort the least value at first and swap it(ascending order)
     # Time Complexity = o(n^2)

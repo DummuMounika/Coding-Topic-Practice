@@ -1,4 +1,5 @@
 #Bubble Sorting
+#Push the maximum to the last by adjacent swaps
 def bubbleSorting(num):
     #Sort the highest value at last and swap it(ascending order)
     #Time Complexity = o(n^2)
