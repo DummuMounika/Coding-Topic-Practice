@@ -12,7 +12,7 @@ def bubbleSorting(num):
                 num[j+1] = temp
                 print(temp,i,j,num)
     return num
-print(bubbleSorting([7,8,3,1,2]))
+print(bubbleSorting([7,8,1,3,12]))
 #Running Loop:
 # temp i j num
 #8 0 1 [7, 3, 8, 1, 2]

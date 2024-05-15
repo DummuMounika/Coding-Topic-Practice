@@ -13,7 +13,7 @@ def selectionSorting(nums):
         temp = nums[smallest]
         nums[smallest] = nums[i]
         nums[i] = temp
-        print(nums)
+        print(i,j,nums)
 print(selectionSorting([7,8,3,1,2]))
 # 1 8 3 7 2
 # 1 2 3 7 8
